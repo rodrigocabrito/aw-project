@@ -1,5 +1,5 @@
 # Arguments
-- Simplicity: Focusing solely on displaying negative statistics simplifies the development process for the StatsContent MFE, making its codebase focused and easier to maintain.
+- Simplicity: Focusing solely on displaying negative statistics simplifies the development process for this MFE, making its codebase focused and easier to maintain.
 - Single Responsibility: Adheres to the single responsibility principle by managing only the display of negative statistics. It does not concern itself with other page aspects, such as header rendering or page layout.
 - Reusability: Can be reused across different pages or apps where negative statistics about the app's theme are required.
 - Independent Deployment: Updates or changes to this MFE can be deployed independently, allowing faster iteration cycles without affecting other components.
